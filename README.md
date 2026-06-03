@@ -1,10 +1,13 @@
 🚗 Car Sales Performance Analysis
+
 📌 Project Overview
+
 In the competitive automotive industry, understanding shifts in consumer demand, regional sales distribution, and pricing dynamics is critical to maintaining profitability. This project analyzes a comprehensive car sales dataset to evaluate dealership performance, identify high-value consumer trends, and uncover optimizations for inventory management and marketing strategies.
 
 By transforming raw transaction data into strategic insights, this analysis uncovers why certain vehicle styles dominate, how micro-trends (like color and pricing thresholds) affect overall revenue, and where operational bottlenecks exist across regional branches.
 
 💼 Core Business Insights & Recommendations
+
 Through exploratory data analysis (EDA) and performance tracking, the following key business insights were uncovered:
 
 1. High-Volume vs. High-Value Optimization (The Product Mix)
